@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🔱 BSDguy
 
-<!--
-**aregv42/aregv42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+            FREEBSD (Beastie)                                     LINUX (Tux)
+  
+                ,        ,                                         .---.
+               /(        )`                                       /     \
+               \ \___   / |                                      () ()  |
+               /- _  `-/  '                                      (_ )_  |
+              (/\/ \ \   /\                                   ___| | | |__
+              / /   | `    \                                 /  /| | | |\  \
+              O O   ) /    |                                | /| | | | | |  |
+              `-^--'`<     '                                | | \ \_/ / | | |
+             (_.)  _  )   /                                 | \  \___/  / | |
+              `.___/`    /                                  /_  `-----'  /  \
+                `-----' /                                  | \__________/    \
+   <----.     __ / __   \                                 [____________________]
+   <----|====O)))==) \) /====
+   <----'    `--' `.__,' \
+                |        |
+                 \       /
+            ______( (_  / 
+          ,'  ,-----'   |             "Still re-compiling your kernel?"
+          `--{__________)      <-----------------------------------------------
+                                 
+                                       "Still fighting with systemd?"
+                                ----------------------------------------------->
