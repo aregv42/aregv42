@@ -1,7 +1,7 @@
 # 🔱 BSDguy
 
 ```text
-            FREEBSD (Beastie)                                     LINUX (Tux)
+                  FREEBSD                                         LINUX 
   
                 ,        ,                                         .---.
                /(        )`                                       /     \
